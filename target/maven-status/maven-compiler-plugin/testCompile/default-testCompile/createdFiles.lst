@@ -1,0 +1,3 @@
+mvn_pages\LoginPage.class
+mvn_pages\BaseClass.class
+mvn_pages\TC_LoginTest_001.class
